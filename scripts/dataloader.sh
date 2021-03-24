@@ -1,6 +1,6 @@
 export MS_ID=${MI_DEV_MICROSERVICE_ID:-123}
 export HOST=${MI_DEV_HOST:-app.leanix.net}
-export TOKEN=${MI_DEV_TOKEN:-NqqDaaExaANFykN5fTctr4s8FSsfqfjcWVqGv469 }
+export TOKEN=${MI_DEV_TOKEN:-w88vxVddOKs8TfWg2VyGwmx4DpadFKzyxb7adVSk }
 
 export SYNC_URL="https://${HOST}/services/integration-api/v1/synchronizationRuns"
 

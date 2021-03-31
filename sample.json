@@ -37,6 +37,12 @@
           "id": "Team Github-test",
           "data": {
               "name": "Team Github-test"
+          },
+			  {
+          "type": "Team",
+          "id": "Team leanix test",
+          "data": {
+              "name": "Team leanix test"
           }
       }
     ]

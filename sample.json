@@ -31,6 +31,13 @@
           "data": {
               "name": "Team Awesome"
           }
+      },
+		 {
+          "type": "Team",
+          "id": "Team Github-test",
+          "data": {
+              "name": "Team Github-test"
+          }
       }
     ]
 }
